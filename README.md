@@ -6,9 +6,9 @@ This project demonstrates real-world full-stack development using modern technol
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Demo Video
 
-🔗
+🔗 https://drive.google.com/drive/folders/1FkZojmq1xKi6mf2l5dTSl_ME8s__Bw6T?usp=sharing
 
 ---
 
